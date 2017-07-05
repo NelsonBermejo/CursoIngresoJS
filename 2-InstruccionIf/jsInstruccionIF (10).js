@@ -15,7 +15,7 @@ if(num>=9)
 else                
 {
 
-                   if(num>4 && num<9)
+                   if(num>4)// ya se comprende que la nota mayor a nueve ya esta tomada
 				   {
                           alert("NOTA: "+num +" APROBO" )
 				   }
