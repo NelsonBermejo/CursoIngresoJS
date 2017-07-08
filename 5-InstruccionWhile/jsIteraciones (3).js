@@ -1,7 +1,15 @@
+
+
+var rta;
+rta=prompt("INgrese clave")
+
 function Mostrar()
 {
 
-var clave = prompt("ingrese el número clave.");
+while(rta!="utn")
+{
+    prompt("INgrese utn");
+}
 
 
 }//FIN DE LA FUNCIÓN
