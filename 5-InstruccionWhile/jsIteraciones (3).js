@@ -1,14 +1,14 @@
 
 
 var rta;
-rta=prompt("INgrese clave")
+rta=prompt("Ingrese clave");
 
 function Mostrar()
 {
 
 while(rta!="utn")
 {
-    prompt("INgrese utn");
+   rta= prompt("INgrese utn");
 }
 
 
